@@ -19,7 +19,7 @@ I built three core visualizations using GA4’s custom reporting features to ans
 
 ## 📂 Project Deliverables
 - [📑 Full Report (PDF)](Traffic_Channel_Performance_Report.pdf.pdf)
-- [🎥 Video Walkthrough](Insert_Your_Video_Link_Here)  
+- [🎥 Video Walkthrough](https://drive.google.com/file/d/1iFPHDs4M6Tpd9DMwoIzS6QuMT4UfgAJX/view?usp=drive_link)
 
 ---
 
