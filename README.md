@@ -38,19 +38,7 @@ I built three core visualizations using GA4’s custom reporting features to ans
 - **Objective:** Identify traffic channels driving the most revenue and engagement  
 - **Data Setup:** Dimensions (default channel group), Metrics (total users, total revenue, engaged sessions, engagement rate), Segments (New vs Returning Users)  
 - **Reports Created:** 3 (Bar Chart, Table, Line Chart)  
-- **Time Frame:** Last 30 Days  
-
----
-
-## 📸 Report Screenshots
-![Screenshot 1](./screenshots/GA_4_Project_1.png)  
-![Screenshot 2](./screenshots/GA_4_Project_2.png)  
-![Screenshot 3](./screenshots/GA4_Project_3.png)  
-
----
-
-## 📊 Detailed Walkthrough
-[View Detailed Walkthrough Analysis](https://drive.google.com/file/d/1iFPHDs4M6Tpd9DMwoIzS6QuMT4UfgAJX/view?usp=drive_link)
+- **Time Frame:** Last 30 Days 
 
 ---
 
@@ -62,5 +50,5 @@ I built three core visualizations using GA4’s custom reporting features to ans
 ---
 
 ## 📬 Contact
-- **Email:** darshilbhatt@gmail.com  
+- **Email:** darshilbhatt.business@gmail.com
 - **LinkedIn:** [Darshil Bhatt](https://www.linkedin.com/in/darshil-bhatt-a2a6bb22a/)
