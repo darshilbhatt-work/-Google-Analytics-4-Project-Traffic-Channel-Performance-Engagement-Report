@@ -20,7 +20,6 @@ I built three core visualizations using GA4’s custom reporting features to ans
 ## 📂 Project Deliverables
 - [📑 Full Report (PDF)]  https://1drv.ms/b/c/a0d6931e4329a39e/EaWHSHXMxuRKgOVB64gooKEBOi_NVFgANV1ZCC1Yq0BIJA?e=rEvKhY
 - [🎥 Video Walkthrough](Insert_Your_Video_Link_Here)  
-- Screenshots → see `/screenshots` folder  
 
 ---
 
